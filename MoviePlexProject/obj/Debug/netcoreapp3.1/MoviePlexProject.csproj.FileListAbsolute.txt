@@ -1,0 +1,11 @@
+C:\Users\ashis\source\repos\MoviePlexProject\MoviePlexProject\bin\Debug\netcoreapp3.1\MoviePlexProject.exe
+C:\Users\ashis\source\repos\MoviePlexProject\MoviePlexProject\bin\Debug\netcoreapp3.1\MoviePlexProject.deps.json
+C:\Users\ashis\source\repos\MoviePlexProject\MoviePlexProject\bin\Debug\netcoreapp3.1\MoviePlexProject.runtimeconfig.json
+C:\Users\ashis\source\repos\MoviePlexProject\MoviePlexProject\bin\Debug\netcoreapp3.1\MoviePlexProject.runtimeconfig.dev.json
+C:\Users\ashis\source\repos\MoviePlexProject\MoviePlexProject\bin\Debug\netcoreapp3.1\MoviePlexProject.dll
+C:\Users\ashis\source\repos\MoviePlexProject\MoviePlexProject\bin\Debug\netcoreapp3.1\MoviePlexProject.pdb
+C:\Users\ashis\source\repos\MoviePlexProject\MoviePlexProject\obj\Debug\netcoreapp3.1\MoviePlexProject.AssemblyInfoInputs.cache
+C:\Users\ashis\source\repos\MoviePlexProject\MoviePlexProject\obj\Debug\netcoreapp3.1\MoviePlexProject.AssemblyInfo.cs
+C:\Users\ashis\source\repos\MoviePlexProject\MoviePlexProject\obj\Debug\netcoreapp3.1\MoviePlexProject.dll
+C:\Users\ashis\source\repos\MoviePlexProject\MoviePlexProject\obj\Debug\netcoreapp3.1\MoviePlexProject.pdb
+C:\Users\ashis\source\repos\MoviePlexProject\MoviePlexProject\obj\Debug\netcoreapp3.1\MoviePlexProject.csprojAssemblyReference.cache
